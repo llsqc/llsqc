@@ -1,7 +1,5 @@
-正在学习游戏开发，励志成为游戏开发大师
-
-QQ：23796978
-
 广告位招租
 
 (◍•ᴗ•◍)❤
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llsqc&hide=c,perl)
